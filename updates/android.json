@@ -1,0 +1,14 @@
+{
+  "version": "V0.1.16",
+  "versionCode": 10016,
+  "url": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD.apk",
+  "sha256": "4c87aea9f8e62173bb84c1a81ea41c5ad93f59c7069f310285531668d38c1ff3",
+  "url32": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD_32bit.apk",
+  "sha256_32": "e2f4bc02f3fa1e46a531fb2eb68d9e330196e1aa1eb7357284769ec5ac57180d",
+  "notes": [
+    "安裝檔瘦身: 64 位元與 32 位元手機各一個 APK, 檔案小了將近一半",
+    "Spotify 專輯與播放清單、完整歌曲資訊與封面、歌詞、音量調整",
+    "Threads 下載 (含分享短網址)",
+    "App 內直接更新"
+  ]
+}
