@@ -1,9 +1,9 @@
 {
-  "version": "V0.1.16",
-  "file": "YTD_V0.1.16.zip",
-  "sha256": "a800bffbe288158b13793fa14e16e6c788c24eb1beb2af5a0404db884c4ba0e3",
+  "version": "V0.1.17",
+  "file": "YTD_V0.1.17.zip",
+  "sha256": "4a7940f0b0e9e13e8cecfdd3aece8901bd7e0496af19b321653fa312a8e790b0",
   "notes": [
-    "新增 X (Twitter) 下載: 貼文影片 (最高畫質)、照片 (原始尺寸)、GIF, 不用登入",
-    "登入設定新增「登入 X」, 敏感內容登入後即可下載"
+    "新增 Apple Music、Deezer、TIDAL、LINE MUSIC、Amazon Music: 單曲、專輯、播放清單自動配對 YouTube 轉成音樂檔, 並寫入歌名、歌手、專輯與封面",
+    "下載頁只顯示「貼上網址」, 不再列出支援的網站"
   ]
 }

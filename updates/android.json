@@ -1,12 +1,12 @@
 {
-  "version": "V0.1.18",
-  "versionCode": 10018,
+  "version": "V0.1.19",
+  "versionCode": 10019,
   "url": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD.apk",
-  "sha256": "a144b7e404e2f120553cbc13b4317997c727da7d8a7c2d70a9411de650a250a5",
+  "sha256": "2b090f2a161d951428048efb0584ce40ff8dc32c2a76f9e64ddd0f78c42894cf",
   "url32": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD_32bit.apk",
-  "sha256_32": "1e95a76a7880d7a2503fea415ab42ac9078a647fb0e703e50b7a5d95d98611ca",
+  "sha256_32": "58ab99cccca0affcf5362aa05713c44f033cedf5a20f0bc14be52e3ed675254f",
   "notes": [
-    "新增 X (Twitter) 下載: 貼文影片 (最高畫質)、照片 (原始尺寸)、GIF, 不用登入",
-    "登入設定新增「登入 X」, 敏感內容登入後即可下載"
+    "新增 Apple Music、Deezer、TIDAL、LINE MUSIC、Amazon Music: 單曲、專輯、播放清單自動配對 YouTube 轉成音樂檔, 並寫入歌名、歌手、專輯與封面",
+    "下載頁只顯示「貼上網址」, 不再列出支援的網站"
   ]
 }
