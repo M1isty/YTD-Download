@@ -1,12 +1,12 @@
 {
-  "version": "V0.1.19",
-  "versionCode": 10019,
+  "version": "V0.1.20",
+  "versionCode": 10020,
   "url": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD.apk",
-  "sha256": "2b090f2a161d951428048efb0584ce40ff8dc32c2a76f9e64ddd0f78c42894cf",
+  "sha256": "3193c038b42408dc7bdcef6cceb0fabc9f8bcfa44e7f465c4c28ef2ca752117a",
   "url32": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD_32bit.apk",
-  "sha256_32": "58ab99cccca0affcf5362aa05713c44f033cedf5a20f0bc14be52e3ed675254f",
+  "sha256_32": "869a5c552c4b0e09d44c59ab54127957d6cc09261898a3d839b941be8feee3b6",
   "notes": [
-    "新增 Apple Music、Deezer、TIDAL、LINE MUSIC、Amazon Music: 單曲、專輯、播放清單自動配對 YouTube 轉成音樂檔, 並寫入歌名、歌手、專輯與封面",
-    "下載頁只顯示「貼上網址」, 不再列出支援的網站"
+    "新增「登入 YouTube」: YouTube Premium 會員下載音樂時改抓 YouTube Music 的 256kbps 高音質音軌",
+    "Spotify / Apple Music 等專輯、播放清單: 每首歌改為評分挑選, 優先選官方 Topic 頻道的正式音軌, 避開翻唱、現場版與 MV"
   ]
 }

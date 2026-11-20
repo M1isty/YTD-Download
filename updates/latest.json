@@ -1,9 +1,9 @@
 {
-  "version": "V0.1.17",
-  "file": "YTD_V0.1.17.zip",
-  "sha256": "4a7940f0b0e9e13e8cecfdd3aece8901bd7e0496af19b321653fa312a8e790b0",
+  "version": "V0.1.18",
+  "file": "YTD_V0.1.18.zip",
+  "sha256": "cbfb554f7cbc83127e4ed3c3cea715b006953eb4098e9f9a091ff7637d5fdc2f",
   "notes": [
-    "新增 Apple Music、Deezer、TIDAL、LINE MUSIC、Amazon Music: 單曲、專輯、播放清單自動配對 YouTube 轉成音樂檔, 並寫入歌名、歌手、專輯與封面",
-    "下載頁只顯示「貼上網址」, 不再列出支援的網站"
+    "新增「登入 YouTube」: YouTube Premium 會員下載音樂時改抓 YouTube Music 的 256kbps 高音質音軌",
+    "Spotify / Apple Music 等專輯、播放清單: 每首歌改為評分挑選, 優先選官方 Topic 頻道的正式音軌, 避開翻唱、現場版與 MV"
   ]
 }
