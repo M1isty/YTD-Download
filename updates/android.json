@@ -1,11 +1,12 @@
 {
-  "version": "V0.1.17",
-  "versionCode": 10017,
+  "version": "V0.1.18",
+  "versionCode": 10018,
   "url": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD.apk",
-  "sha256": "04e3d7dcaf737e8def9eafb3b2cbe5ddc69841a32d188902f08f3fa1692c6b63",
+  "sha256": "a144b7e404e2f120553cbc13b4317997c727da7d8a7c2d70a9411de650a250a5",
   "url32": "https://github.com/M1isty/YTD-Download/releases/latest/download/YTD_32bit.apk",
-  "sha256_32": "d6d146d85ae99952550c8608d9562b66bd2bebc62608e0c2739b345c20cf14bc",
+  "sha256_32": "1e95a76a7880d7a2503fea415ab42ac9078a647fb0e703e50b7a5d95d98611ca",
   "notes": [
-    "開啟 App 時自動檢查新版本, 有新版直接提示更新"
+    "新增 X (Twitter) 下載: 貼文影片 (最高畫質)、照片 (原始尺寸)、GIF, 不用登入",
+    "登入設定新增「登入 X」, 敏感內容登入後即可下載"
   ]
 }
